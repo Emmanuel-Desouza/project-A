@@ -1,3 +1,5 @@
+# PROJECT 1: LAMP STACK IMPLEMENTATION
+
 # Documentation of Project-one
 
 ## Installing Apache and Updating the Firewall
